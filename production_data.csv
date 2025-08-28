@@ -1,0 +1,31 @@
+Production_Date,Line_Name,Product_Group,Production_Qty,Defect_Qty,Work_Hours,Target_UPH,Actual_UPH,Company
+2024-01-15,Line A,Electronics,1904,24,8.0,245,238,Samsung Electronics
+2024-01-15,Line B,Semiconductor,1800,18,8.0,220,225,SK Hynix
+2024-01-15,Line C,Display,1560,32,8.0,200,195,LG Display
+2024-01-15,Line D,Battery,1680,15,8.0,210,210,LG Energy Solution
+2024-01-15,Line E,Auto Parts,1440,28,8.0,185,180,Hyundai Mobis
+2024-01-15,Line F,Medical Device,1200,12,8.0,150,150,Samsung Biologics
+2024-01-16,Line A,Electronics,1950,20,8.0,245,244,Samsung Electronics
+2024-01-16,Line B,Semiconductor,1760,22,8.0,220,220,SK Hynix
+2024-01-16,Line C,Display,1600,28,8.0,200,200,LG Display
+2024-01-16,Line D,Battery,1720,18,8.0,210,215,LG Energy Solution
+2024-01-16,Line E,Auto Parts,1480,25,8.0,185,185,Hyundai Mobis
+2024-01-16,Line F,Medical Device,1180,15,8.0,150,148,Samsung Biologics
+2024-01-17,Line A,Electronics,1880,35,8.0,245,235,Samsung Electronics
+2024-01-17,Line B,Semiconductor,1840,16,8.0,220,230,SK Hynix
+2024-01-17,Line C,Display,1520,40,8.0,200,190,LG Display
+2024-01-17,Line D,Battery,1650,20,8.0,210,206,LG Energy Solution
+2024-01-17,Line E,Auto Parts,1420,30,8.0,185,178,Hyundai Mobis
+2024-01-17,Line F,Medical Device,1220,10,8.0,150,153,Samsung Biologics
+2024-01-18,Line A,Electronics,1920,28,8.0,245,240,Samsung Electronics
+2024-01-18,Line B,Semiconductor,1780,24,8.0,220,223,SK Hynix
+2024-01-18,Line C,Display,1580,35,8.0,200,198,LG Display
+2024-01-18,Line D,Battery,1700,12,8.0,210,213,LG Energy Solution
+2024-01-18,Line E,Auto Parts,1460,26,8.0,185,183,Hyundai Mobis
+2024-01-18,Line F,Medical Device,1190,14,8.0,150,149,Samsung Biologics
+2024-01-19,Line A,Electronics,1960,18,8.0,245,245,Samsung Electronics
+2024-01-19,Line B,Semiconductor,1820,20,8.0,220,228,SK Hynix
+2024-01-19,Line C,Display,1620,25,8.0,200,203,LG Display
+2024-01-19,Line D,Battery,1740,16,8.0,210,218,LG Energy Solution
+2024-01-19,Line E,Auto Parts,1500,22,8.0,185,188,Hyundai Mobis
+2024-01-19,Line F,Medical Device,1240,8,8.0,150,155,Samsung Biologics
